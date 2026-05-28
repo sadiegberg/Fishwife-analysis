@@ -47,7 +47,7 @@ and turned a pantry staple into a cultural moment.
 ![TikTok Views](visuals/tiktok_views.png)
 
 ### Brand Collaboration Timeline
-![Collaborations](visuals/collab_timeline.png)
+![Brand Collaboration Timeline](visuals/collab_timeline.png)
 
 ### U.S. Market Size
 ![Market Size](visuals/market_size.png)
