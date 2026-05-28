@@ -1,7 +1,7 @@
 # Fishwife Tinned Seafood Co. - Brand & Growth Analysis
 
 ## Overview
-Fishwife didn't just sell fish — it sold an aesthetic, a lifestyle, and a modern 
+Fishwife didn't just sell fish, it sold an aesthetic, a lifestyle, and a modern 
 identity around tinned seafood. This project analyzes how a female-founded DTC 
 startup grew from $750K to $7.6M in revenue in 4 years through organic social 
 media, strategic brand collaborations, and premium positioning in a commodity category.
@@ -25,7 +25,7 @@ and turned a pantry staple into a cultural moment.
 ## Key Findings
 - Revenue grew 10x in 4 years, driven almost entirely by organic social media until 2023
 - Google search interest for "tinned fish" rose sharply alongside Fishwife's growth 
-  while "canned fish" stayed flat — evidence of a category rebrand
+  while "canned fish" stayed flat, evidence of a category rebrand
 - Collaborations evolved from art/lifestyle partners (2021) → food brand collabs (2022) 
   → fashion crossovers (2025), reflecting a deliberate shift from food brand to 
   lifestyle brand
