@@ -35,25 +35,25 @@ and turned a pantry staple into a cultural moment.
 ## Visualizations
 
 ### Revenue Growth
-![Revenue Growth](visuals/revenue_growth.png)
+![Revenue Growth](revenue_growth.png)
 
 ### Retail Expansion
-![Retail Expansion](visuals/retail_expansion.png)
+![Retail Expansion](retail_expansion.png)
 
 ### Google Search Interest
-![Google Trends](visuals/google_trends.png)
+![Google Trends](google_trends.png)
 
 ### TikTok Hashtag Views
-![TikTok Views](visuals/tiktok_views.png)
+![TikTok Views](tiktok_views.png)
 
 ### Brand Collaboration Timeline
-![Brand Collaboration Timeline](visuals/collab_timeline.png)
+![Brand Collaboration Timeline](collab_timeline.png)
 
 ### U.S. Market Size
-![Market Size](visuals/market_size.png)
+![Market Size](market_size.png)
 
 ### Revenue vs. Retail Expansion
-![Revenue vs Retail](visuals/revenue_vs_retail.png)
+![Revenue vs Retail](revenue_vs_retail.png)
 
 ## Tools Used
 Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook
